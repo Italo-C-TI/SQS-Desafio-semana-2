@@ -1,8 +1,8 @@
-# Exercicio 1 semana 2 parte 1
+# Primeiro exercicio da semana 2 parte 1
 https://github.com/Italo-C-TI/SQS-Desafio-semana-2-sender
-# Exercicio 1 semana 2 parte 2
+# Primeiro exercicio da semana 2 parte 2
 https://github.com/Italo-C-TI/SQS-Desafio-semana-2-consomer
-# Exercicio 2 semana 2
+# Segundo exercicio da semana 2
 Compare e descreva as diferenças e o objetivo entre a Amazon SQS e a Amazon SNS:
 
     O Amazon SQS e o Amazon SNS são serviços de filas e de tópicos
